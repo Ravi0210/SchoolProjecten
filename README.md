@@ -1,2 +1,1 @@
-# SchoolProjecten
-projecten die ik maak voor school opdrachten
+Het resultaat van mijn eerste jaar op de aplicatie en mediaontwikkelaar opleiding!
